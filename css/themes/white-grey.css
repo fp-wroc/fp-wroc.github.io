@@ -15,4 +15,6 @@ main {
 
 .group-logo {
     filter: opacity(65%);
+    height: 95px;
+    width: 128px; 
 }

@@ -69,3 +69,17 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+.group-logo {
+    filter: opacity(65%);
+    height: 95px;
+    width: 128px; 
+}
+
+.main-list {
+    padding-bottom: 20px;
+}
+
+.main-list-element {
+    padding-bottom: 20px;
+}
