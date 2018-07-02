@@ -12,3 +12,7 @@ main {
 .icons-social a svg path{
 	fill: #4B5658;
 }
+
+.group-logo {
+    filter: opacity(65%);
+}
