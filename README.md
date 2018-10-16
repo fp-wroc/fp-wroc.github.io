@@ -2,8 +2,7 @@ Functional Programming Wroclaw community landing page
 =====================================================
 
 
-Extras
-------
+## Extras
 
 | Who | Title  | What | Link |
 | --- | ------ | ---- | ---- |
