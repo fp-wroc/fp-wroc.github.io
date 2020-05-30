@@ -6,6 +6,8 @@ Functional Programming Wroclaw community landing page
 
 | Who | Title  | What | Link |
 | --- | ------ | ---- | ---- |
+| Krzysztof Leśniak | Introduction to OCaml programming language | Slides | https://serpent7776.github.io/ocaml-intro-slides/ |
+| Krzysztof Leśniak | Introduction to OCaml programming language | Sources | https://github.com/serpent7776/ocaml-intro-slides |
 | Maciej Piróg | Algebraic Effects | Slides | https://github.com/fp-wroc/fp-wroc.github.io/blob/master/talks/algebraic_effects_PL.pdf |
 |Maciej Piróg | Algebraic Effects | Sources | https://github.com/fp-wroc/fp-wroc.github.io/blob/master/talks/algebraic_effects.zip |
 
